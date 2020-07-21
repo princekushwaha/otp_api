@@ -10,6 +10,10 @@ django = "*"
 django-otp = "*"
 django-rest-framework = "*"
 twilio = "*"
+gunicorn = "*"
+psycopg2-binary = "*"
+psycopg2 = "==2.7.5"
+django-heroku = "*"
 
 [requires]
 python_version = "3.7"
