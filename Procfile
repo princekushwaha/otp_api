@@ -1,1 +1,1 @@
-web: gunicorn lostproject.wsgi
+web: gunicorn lostproject.lostproject.wsgi
